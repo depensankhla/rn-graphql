@@ -1,4 +1,4 @@
-import {FlatList, Text, View } from 'react-native';
+import {FlatList, Text, View} from 'react-native';
 import {gql, useQuery} from '@apollo/client';
 import React from 'react';
 import {styles} from './CountryScreen.style';
